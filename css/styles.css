@@ -4,3 +4,12 @@ body {
 p, h1 {
     color: white;
 }
+
+h2 {
+    color: dimgray;
+}
+
+.second_p {
+    font-size: 16px;
+    color: rgb(73, 17, 17);
+}
